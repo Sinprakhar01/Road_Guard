@@ -1,16 +1,32 @@
-# Password_Manager
-“Password Manager” is a small-scale project used for storing your login 
-information for all the websites you use and generating random passwords 
-for users. The user will have the access to add, update and remove his details 
-and he can fetch his data whenever needed.
+# Roadguard AI Powered Traffic Violation Detection
 
+## Overview
+Roadguard is an AI-powered application designed to detect traffic violations using video feeds from traffic cameras. It leverages advanced machine learning algorithms to identify and record various types of traffic violations, providing real-time alerts and detailed reports to traffic authorities.
 
-It’s an GUI based application simple and easy to use. It has a lot’s of
-feature which makes user experience better. In this application Passwords 
-can be stored for various applications and details required for maintaining
-the Passwords are application or website name, username, password and
-email id. 
+## Features
+- **Real-Time Violation Detection:** Identifies traffic violations such as speeding, running red lights, illegal turns, and more.
+- **High Accuracy:** Utilizes state-of-the-art AI models to ensure high accuracy in detection.
+- **Scalable:** Can handle multiple video feeds simultaneously.
+- **Detailed Reporting:** Generates comprehensive reports with timestamps, violation types, and vehicle details.
+- **Integration:** Easy integration with existing traffic management systems.
+- **User-Friendly Dashboard:** Interactive dashboard for monitoring violations and accessing reports.
 
-You would not get any problem while using it because it’s simple and
-user friendly UI will make your work easy, faster and gives you a better 
-result.
+## System Requirements
+- **Operating System:** Linux (Ubuntu 18.04 or later), Windows 10, or macOS
+- **Processor:** Intel i5 or higher
+- **Memory:** 8GB RAM minimum
+- **Storage:** 50GB free disk space
+- **Python:** Python 3.7 or later
+- **Dependencies:** Listed in `requirements.txt`
+
+## Installation
+
+### Prerequisites
+- Ensure Python 3.7 or later is installed.
+- Install Git.
+
+### Steps
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/yourusername/roadguard.git
+   cd roadguard
