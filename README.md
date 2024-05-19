@@ -19,14 +19,14 @@ Roadguard is an AI-powered application designed to detect traffic violations usi
 - **Python:** Python 3.7 or later
 - **Dependencies:** Listed in `requirements.txt`
 
-## Installation
-
 ### Prerequisites
 - Ensure Python 3.7 or later is installed.
 - Install Git.
 
-### Steps
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/roadguard.git
-   cd roadguard
+## Usage
+### Web Dashboard
+Access the web dashboard at http://localhost:8000.
+Login using the default admin credentials (change these immediately after first login).
+### Monitoring Violations
+View real-time video feeds and detected violations on the dashboard.
+Access detailed violation reports with filters for date, type of violation, and vehicle details.
